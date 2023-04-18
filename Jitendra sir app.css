@@ -1,0 +1,64 @@
+<style type='text/css'>
+.relative {
+  position: relative;
+  width: 43%;
+  overflow:0;
+  
+
+  white-space: nowrap;
+}
+
+#one,#two {
+  display: inline-block;
+  
+  width:100%;
+  margin-left: 5px;
+}
+
+#one{color: whitesmoke;
+  background-color:red;
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+
+#two {
+  color: whitesmoke;
+  background-color:#3A1078;
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  
+}
+.fa-file-pdf-o:hover,.fa-video-camera:hover,#one:hover,
+.I-icon-01:hover,
+#two:hover{
+  color:white;
+ background-color:blue;
+
+  
+  
+  
+}
+{
+ 
+}
+.fa-file-pdf-o,.fa-video-camera{
+  font-size: 45px;
+  color:whitesmoke;
+  
+}
+.I-con-01
+{
+  
+font-family: Georgia, 'Times New Roman', Times, serif;  
+font-size: 22px;
+  font-weight: bold;
+}
+.course-title{
+  color: red;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  text-align: center;
+  margin-top:10;
+}
+</style>
